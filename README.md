@@ -20,7 +20,9 @@
 ## 참고양식  
 1. [OSS 프로젝트 수행계획서](https://github.com/CSID-DGU/2024-1-OSSProj/blob/main/ReferenceForms/1_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%88%98%ED%96%89%EA%B3%84%ED%9A%8D%EC%84%9C.md)    
 
-## [참고자료](https://github.com/CSID-DGU/2024-1-OSSProj/blob/main/References/References.md)    
+## 참고자료  
+1. [Git/Github 자료](https://github.com/CSID-DGU/2024-1-OSSProj/blob/main/References/References.md)  
+2. 
 
 
 
