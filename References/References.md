@@ -3,6 +3,8 @@
 ### Git / Github 자료  
 1. [Readme.md 파일 작성법](https://velog.io/@gmlstjq123/Readme.md-%ED%8C%8C%EC%9D%BC-%EC%9E%91%EC%84%B1%EB%B2%95)  
 2. [Git/Github 리파지토리 관리기법 등](https://hoohaha.tistory.com/tag/github)
+3. [기술스택 배지로 깃허브 프로필, README.md 예쁘게 꾸미기)(https://cocoon1787.tistory.com/689)  
+4. [아이콘 다운로드 사이트](https://www.flaticon.com/free-icons/oss)  
 
 ### 소프트웨어 수명주기     
 1. [ISO/IEC 12207 소프트웨어 프로세스 국제표준](http://www.jidum.com/jidums/view.do?jidumId=294)
