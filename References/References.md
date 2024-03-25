@@ -20,7 +20,7 @@
 
 ### 프론트엔드
 - HTML  
-    - [뉴핀, 웹을 알고싶다면?? HTML5 & CSS3부터 !!!, 위키독스, 2020.12](https://wikidocs.net/book/4701)  
+    - [뉴핀, 웹을 알고싶다면? HTML5 & CSS3부터 !!!, 위키독스, 2020.12](https://wikidocs.net/book/4701)  
 - CSS, JavaScript  
 - 웹 컴포넌트  
 - 프레임워크 및 라이브러리 : React.js - facebook  
