@@ -34,6 +34,6 @@
 14. [OSS 프로젝트 개인별 평가표](https://github.com/CSID-DGU/2024-1-OSSProj/blob/872f77e635cae20fc021c5be639abe4ca8e8b041/Doc/5_5_OSSProj_Tn_Tname_%EA%B0%9C%EC%9D%B8%EB%B3%84%ED%8F%89%EA%B0%80%ED%91%9C.hwp)
 15. [특허명세서 작성 안내](https://github.com/CSID-DGU/2024-1-OSSProj/blob/872f77e635cae20fc021c5be639abe4ca8e8b041/Doc/5_6_OSSProj_Tn_Tname_%ED%8A%B9%ED%97%88%EB%AA%85%EC%84%B8%EC%84%9C%EC%9E%91%EC%84%B1%EC%95%88%EB%82%B4.hwp)  
 
-## 참고자료  
-[참고자료 바로가기](https://github.com/CSID-DGU/2024-1-OSSProj/blob/main/References/References.md)  
+## 참고문헌  
+[참고문헌 바로가기](https://github.com/CSID-DGU/2024-1-OSSProj/blob/main/References/References.md)  
 
