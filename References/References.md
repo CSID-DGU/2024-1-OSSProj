@@ -1,4 +1,4 @@
-## 참고자료  
+## 참고문헌  
 
 ### Git / Github 자료  
 1. [Readme.md 파일 작성법](https://velog.io/@gmlstjq123/Readme.md-%ED%8C%8C%EC%9D%BC-%EC%9E%91%EC%84%B1%EB%B2%95)  
