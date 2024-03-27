@@ -1,5 +1,5 @@
-Class: OSSProj
-Name : Kilsup Lee
+Class: OSSProj  
+Name : Kilsup Lee  
 
 
 
