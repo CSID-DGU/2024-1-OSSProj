@@ -1,10 +1,8 @@
 Class: OSSProj  
 Name : Kilsup Lee  
-<<<<<<< HEAD
-일자 : 2024. 3. 27.
-=======
 Date : 27 Mar, 2024
->>>>>>> origin
+Practice : Git
+
 
 
 
