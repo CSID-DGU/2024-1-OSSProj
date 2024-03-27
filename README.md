@@ -1,3 +1,8 @@
+Class: OSSProj
+
+
+
+
 # 과목명: 오픈소스소프트웨어프로젝트(2024-1-OSSProj)
 
 - 2024-1학기 OSS프로젝트 교과목 실습을 위한 Repository 입니다.
