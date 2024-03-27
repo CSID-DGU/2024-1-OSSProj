@@ -1,6 +1,8 @@
 Class: OSSProj  
 Name : Kilsup Lee  
 Date : 27 Mar, 2024
+Practice : Git
+
 
 
 
