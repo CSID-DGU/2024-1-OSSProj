@@ -1,5 +1,12 @@
 ## 참고문헌  
 
+### 기수행 OSS 프로젝트
+1. 202m-n-OSSProj-Tname-Tn : 기수행 OSS 프로젝트  
+    - 2023년 1, 2학기, 2022년 1, 2학기  
+2. 2023-S-VSA-Tname-Tn : 중기부 벤처스타트업아카데미 여름학기 산학연계프로젝트  
+3. 202m-n-SCS4031-Tname-Tn : 융합캡스톤디자인 프로젝트  
+    - 2023-2-SCS4031-Tname-Tn : 중기부 벤처스타트업아카데미 산학연계프로젝트 (공통)
+
 ### Git / Github 자료  
 1. [Readme.md 파일 작성법](https://velog.io/@gmlstjq123/Readme.md-%ED%8C%8C%EC%9D%BC-%EC%9E%91%EC%84%B1%EB%B2%95)  
 2. [Git/Github 리파지토리 관리기법 등](https://hoohaha.tistory.com/tag/github)
