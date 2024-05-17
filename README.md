@@ -6,6 +6,19 @@
 1. [오픈소스소프트웨어 프로젝트, 동국대학교, 소프트웨어교육원, 2024.](https://wikidocs.net/book/14591)
 2. [오픈소스소프트웨어 실습, 동국대학교, 소프트웨어교육원, 2024.](https://wikidocs.net/book/13835)
 
+## 팀구성
+- [1팀](https://github.com/CSID-DGU/2024-1-OSSProj-ComfyRide-01)
+- [2팀](https://github.com/CSID-DGU/2024-1-OSSProj-DevOops-02)
+- [3팀](https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03)
+- [4팀](https://github.com/CSID-DGU/2024-1-OSSProj-OneCOIN-04)
+- [5팀](https://github.com/CSID-DGU/2024-1-OSSProj-OhYeSu-05)
+- [6팀](https://github.com/CSID-DGU/2024-1-OSSProj-WelcomeOPSO-06)
+- [7팀](https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07)
+- [8팀](https://github.com/CSID-DGU/2024-1-OSSProj-JCL-08)
+- [9팀](https://github.com/CSID-DGU/2024-1-OSSProj-Aha-09)
+- [10팀](https://github.com/CSID-DGU/2024-1-OSSProj-SOUP-10)
+- [11팀](https://github.com/CSID-DGU/2024-1-OSSProj-GiveMeTen-11)
+
 ## Application Lifecycle Management
 
 - 요구사항 관리  
